@@ -49,13 +49,7 @@ Property Database/API
 
 ## Internal Data
 
-Property information is fetched from:
-
-```python
-https://www.townmanor.ai/api/ovika/properties
-```
-
-The dataset contains:
+The dataset should contain:
 
 * Property Type
 * Property Category
