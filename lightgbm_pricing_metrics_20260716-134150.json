@@ -1,0 +1,20 @@
+{
+  "best_params": {
+    "num_leaves": 119,
+    "max_depth": 7,
+    "learning_rate": 0.08293010630329531,
+    "feature_fraction": 0.8733862512216666,
+    "bagging_fraction": 0.9853398267265927,
+    "bagging_freq": 4,
+    "min_child_samples": 66,
+    "lambda_l1": 7.23228944497731e-05,
+    "lambda_l2": 0.00819924071639533
+  },
+  "metrics": {
+    "test_rows": 9120,
+    "mae": 1128.35,
+    "rmse": 2271.55,
+    "mape_pct": 22.43,
+    "r2": 0.917
+  }
+}
